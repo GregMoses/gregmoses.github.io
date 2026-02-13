@@ -6,17 +6,17 @@ layout: page
 title: About
 ---
 
-Hello am Gregory Moses
+## Hello am Gregory Moses
 I am a Cybersecurity, Ai red teamer, Network security and Telecommunicatiobn Engineer enthusiast with focus on building resilient systems and ethical hacking.
 
-###Technical focus
+### Technical focus
 Offensive security and vulnerability
 AI red teaming
 Network security
 Reverse Engineering enthuasiast
 
-###Current projects
-##My projects
+### Current projects
+My projects
 Currently building soc labs
 
 
