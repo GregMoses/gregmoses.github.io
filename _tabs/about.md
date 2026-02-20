@@ -1,7 +1,4 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
 layout: page
 title: Resume outline
 ---
@@ -12,13 +9,12 @@ Hello am "Gregory Moses",I am a Cybersecurity Analyst, Ai red teamer, Network se
 I am a graduate of Telecommunications and Information Engineering. Currently pursuing Security Analyst at Cyber Shujaa.
 
 ### Working experience
-
 **March 2025- October 2025**
-**Fibrelink Limited and its sister company Cable Television Network**
--Worked as a Optical, fibre and Network Operations Centre intern.
+- ""Fibrelink Limited and its sister company Cable Television Network""
+- Worked as a Optical, fibre and Network Operations Centre intern.
 
 **May 2022- February 2025** 
-"Greg Broadcast"
+- ""Greg Broadcast""
 - Freelance engineer/technician in alarm systems, access controls, intercom installations, electric gates, fire and smoke detection systems, electric fences, networking and datacentres maintainance and installations.
 
 **January 2022- March 2022**
