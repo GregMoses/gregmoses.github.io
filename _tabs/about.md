@@ -18,12 +18,12 @@ I am a graduate of Telecommunications and Information Engineering. Currently pur
 -Worked as a Optical, fibre and Network Operations Centre intern.
 
 **May 2022- February 2025** 
-**Greg Broadcast**
--Freelance engineer/technician in alarm systems, access controls, intercom installations, electric gates, fire and smoke detection systems, electric fences, networking and datacentres maintainance and installations.
+"Greg Broadcast"
+- Freelance engineer/technician in alarm systems, access controls, intercom installations, electric gates, fire and smoke detection systems, electric fences, networking and datacentres maintainance and installations.
 
 **January 2022- March 2022**
-**Kool Communications Limited**
--Broadcast Engineering Intern
+"Kool Communications Limited"
+- Broadcast Engineering Intern
 
 ### Certifications
 - CSI Linux certified investigator (CSI LINUX)
@@ -38,14 +38,14 @@ I am a graduate of Telecommunications and Information Engineering. Currently pur
 - Certified Video Surveillance systems engineer (DHCA-IPVSS) by Dahua Technology.
 
 ### Technical skills
--Offensive security and vulnerability assessing.
--Skilled in Network and web security.
--AI red teaming.
--Passionate about CTFs.
--Reverse Engineering.
--Security researching.
--Malware analysis.
--Log analysis.
+- Offensive security and vulnerability assessing.
+- Skilled in Network and web security.
+- AI red teaming.
+- Passionate about CTFs.
+- Reverse Engineering.
+- Security researching.
+- Malware analysis.
+- Log analysis.
 
 
 
