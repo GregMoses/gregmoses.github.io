@@ -1,12 +1,13 @@
 ---
-title: About
+title: **About**
 icon: fas fa-info-circle
 order: 4
 ---
 
-Hello am "Gregory Moses", I am a Cybersecurity Analyst skilled in Agentic AI systems, AI red teaming, Network security and Telecommunication Engineer enthusiast with focus on building resilient AI systems and offensive security.
+Hello am **Gregory Moses**, I am a Cybersecurity Analyst skilled in Agentic AI systems, AI red teaming, Network security and Telecommunication Engineer enthusiast with focus on building resilient AI systems and offensive security.
 
 **ACADEMIC BACKGROUND**
+
 I am a graduate of Telecommunications and Informations Engineering and Security Analyst at Cyber Shujaa.
 
 **WORKING EXPERIENCE**
