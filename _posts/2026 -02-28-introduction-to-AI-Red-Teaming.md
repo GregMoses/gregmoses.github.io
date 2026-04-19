@@ -1,6 +1,6 @@
 ---
-title: **Introduction to AI Red Teaming**
-author: **Gregory Moses**
+title: "**Introduction to AI Red Teaming**"
+author: "**Gregory Moses**"
 date: 2026-02-28
 categories: [Cybersecurity, AI redteaming]
 tags: [AI redteam, Prompt injection, Jailbreaks, AI security, OWASPTop10 LLM]
