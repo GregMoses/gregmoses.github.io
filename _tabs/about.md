@@ -36,7 +36,7 @@ I am a graduate of Telecommunications and Informations Engineering and Security 
 - Certified C++ by Red Team Leaders
 - Windows Api for Red Team by Red Team Leaders.
 - Certified Video Surveillance systems engineer (DHCA-IPVSS) by Dahua Technology.
-- Offenive AI Agents by Redteam Leaders.
+- Offensive AI Agents by Redteam Leaders.
 
 ### Technical skills
 - Offensive security and vulnerability assessment.
