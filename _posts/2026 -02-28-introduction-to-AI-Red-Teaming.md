@@ -1,5 +1,5 @@
 ---
-title: **Introduction to AI Red Teaming**
+title: "**Introduction to AI Red Teaming**"
 author: **Gregory Moses**
 date: 2026-02-28
 categories: [Cybersecurity, AI redteaming]
