@@ -8,19 +8,19 @@ Hello am **Gregory Moses**, I am a Cybersecurity Analyst skilled in Agentic AI s
 
 **ACADEMIC BACKGROUND**
 
-I am a graduate of Telecommunications and Informations Engineering and Security Analyst at Cyber Shujaa.
+:I am a graduate of Telecommunications and Informations Engineering and Security Analyst at Cyber Shujaa.
 
 **WORKING EXPERIENCE**
 **March 2025 - October 2025**
-: Fibrelink Limited and its sister company Cable Television Network
+:Fibrelink Limited and its sister company Cable Television Network
 - Worked as a Optical, fibre and Network Operations Centre Engineering Intern.
 
 **May 2022 - February 2025** 
-: Greg Broadcast
+:Greg Broadcast
 - Freelance engineer/technician in alarm systems, access controls, intercom installations, electric gates, fire and smoke detection systems, electric fences, networking and datacentres maintainance and installations.
 
 **January 2022 - March 2022**
-: Kool Communications Limited.
+:Kool Communications Limited.
 - As a broadcast engineering Intern
 
 **CERTIFICATIONS**
