@@ -23,7 +23,10 @@ I am a graduate of Telecommunications and Informations Engineering and Security 
 - As a broadcast engineering Intern
 
 ### Certifications
+- Certified AI Redteam Professional by Cranium AI
+- Cerified AI security Professional by Cranium AI
 - CSI Linux certified investigator (CSI LINUX)
+- Certified Threat Intelligence by RedTeam Leaders and ArcX
 - Offensive development in windows (Red Team Leaders)
 - Certified Cybersecurity Educator Professional (Red Team Leaders)
 - Intermediate Malware Analysis (Red Team Leaders)
@@ -33,10 +36,12 @@ I am a graduate of Telecommunications and Informations Engineering and Security 
 - Certified C++ by Red Team Leaders
 - Windows Api for Red Team by Red Team Leaders.
 - Certified Video Surveillance systems engineer (DHCA-IPVSS) by Dahua Technology.
+- Offenive AI Agents by Redteam Leaders.
 
 ### Technical skills
-- Offensive security and vulnerability assessing.
+- Offensive security and vulnerability assessment.
 - Skilled in Network and web security.
+- Agentic AI.
 - AI red teaming.
 - Passionate about CTFs.
 - Reverse Engineering.
