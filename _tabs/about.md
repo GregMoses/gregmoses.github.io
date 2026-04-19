@@ -6,10 +6,10 @@ order: 4
 
 Hello am "Gregory Moses", I am a Cybersecurity Analyst skilled in Agentic AI systems, AI red teaming, Network security and Telecommunication Engineer enthusiast with focus on building resilient AI systems and offensive security.
 
-### Academic background
+**ACADEMIC BACKGROUND**
 I am a graduate of Telecommunications and Informations Engineering and Security Analyst at Cyber Shujaa.
 
-### Working experience
+**WORKING EXPERIENCE**
 **March 2025 - October 2025**
 : Fibrelink Limited and its sister company Cable Television Network
 - Worked as a Optical, fibre and Network Operations Centre Engineering Intern.
@@ -22,7 +22,7 @@ I am a graduate of Telecommunications and Informations Engineering and Security 
 : Kool Communications Limited.
 - As a broadcast engineering Intern
 
-### Certifications
+**CERTIFICATIONS**
 - Certified AI Redteam Professional by Cranium AI
 - Cerified AI security Professional by Cranium AI
 - CSI Linux certified investigator (CSI LINUX)
@@ -38,7 +38,7 @@ I am a graduate of Telecommunications and Informations Engineering and Security 
 - Certified Video Surveillance systems engineer (DHCA-IPVSS) by Dahua Technology.
 - Offensive AI Agents by Redteam Leaders.
 
-### Technical skills
+**TECHNICAL SKILLS**
 - Offensive security and vulnerability assessment.
 - Skilled in Network and web security.
 - Agentic AI.
