@@ -17,11 +17,11 @@ Hello am **Gregory Moses**, I am a Cybersecurity Analyst skilled in Agentic AI s
 
 **May 2022 - February 2025** 
 : Greg Broadcast
-- Freelance engineer/technician in alarm systems, access controls, intercom installations, electric gates, fire and smoke detection systems, electric fences, networking and datacentres maintainance and installations.
+- Freelance Engineer in Alarm systems, Access controls, Intercom installations, Electric gates, fire and smoke detection systems, electric fences, Networking and Datacentres maintainance and installations.
 
 **January 2022 - March 2022**
 : Kool Communications Limited.
-- As a broadcast engineering Intern
+- As a Broadcast engineering Intern
 
 **CERTIFICATIONS**
 - Certified AI Redteam Professional by Cranium AI
